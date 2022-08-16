@@ -1,0 +1,19 @@
+{
+  "name": "obs-vlc-mobile-control",
+  "version": "1.0.0",
+  "description": "- it'll do stuff :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecrouch/obs-vlc-mobile-control.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lecrouch/obs-vlc-mobile-control/issues"
+  },
+  "homepage": "https://github.com/lecrouch/obs-vlc-mobile-control#readme"
+}
